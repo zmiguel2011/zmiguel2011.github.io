@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.a33c0ef8.css",
-    "main.js": "/static/js/main.ccb922c8.js",
+    "main.css": "/static/css/main.845e8877.css",
+    "main.js": "/static/js/main.39e9009c.js",
     "static/js/787.e02c0aaf.chunk.js": "/static/js/787.e02c0aaf.chunk.js",
     "static/media/banner-bg-white.png": "/static/media/banner-bg-white.7a65d67419c40058d58d.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.be74975758f421fdf280.png",
     "static/media/footer-bg.png": "/static/media/footer-bg.ab4d56c0eb1dd56e0848.png",
     "static/media/project-birdventure.png": "/static/media/project-birdventure.0756b0309d49eb5cd21a.png",
+    "static/media/before-footer-bg-white.png": "/static/media/before-footer-bg-white.b15bd89d0187b0779f0c.png",
     "static/media/project-ventreplein.png": "/static/media/project-ventreplein.b5b612081bd03ea6defd.png",
     "static/media/project-typeracer.png": "/static/media/project-typeracer.376dccad27f54a435d5e.png",
     "static/media/project-letstalk.png": "/static/media/project-letstalk.5a85081cac47e9f1a2ed.png",
@@ -16,6 +17,7 @@
     "static/media/project-evup.png": "/static/media/project-evup.af3c97973abd12b1d777.png",
     "static/media/project-linklayer.png": "/static/media/project-linklayer.597435c90fd0e77805ac.png",
     "static/media/project-transpiler.png": "/static/media/project-transpiler.cdb5a1b56e2642d224be.png",
+    "static/media/before-footer-bg.png": "/static/media/before-footer-bg.dd43846ae83a2248cb9d.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -43,12 +45,12 @@
     "static/media/mail-icon.svg": "/static/media/mail-icon.129a9bb6f39d8d3278c84d7f8bb6a114.svg",
     "static/media/logo-html.svg": "/static/media/logo-html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/logo-haskell.svg": "/static/media/logo-haskell.5160a18a9866652c7945dee3f5f423f9.svg",
-    "main.a33c0ef8.css.map": "/static/css/main.a33c0ef8.css.map",
-    "main.ccb922c8.js.map": "/static/js/main.ccb922c8.js.map",
+    "main.845e8877.css.map": "/static/css/main.845e8877.css.map",
+    "main.39e9009c.js.map": "/static/js/main.39e9009c.js.map",
     "787.e02c0aaf.chunk.js.map": "/static/js/787.e02c0aaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a33c0ef8.css",
-    "static/js/main.ccb922c8.js"
+    "static/css/main.845e8877.css",
+    "static/js/main.39e9009c.js"
   ]
 }
