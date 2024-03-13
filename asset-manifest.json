@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.60ffd146.css",
-    "main.js": "/static/js/main.03b3a605.js",
+    "main.css": "/static/css/main.8d1752c3.css",
+    "main.js": "/static/js/main.93b3e239.js",
     "static/js/787.e02c0aaf.chunk.js": "/static/js/787.e02c0aaf.chunk.js",
     "static/media/project-birdventure.png": "/static/media/project-birdventure.0756b0309d49eb5cd21a.png",
     "static/media/project-ventreplein.png": "/static/media/project-ventreplein.b5b612081bd03ea6defd.png",
@@ -57,12 +57,12 @@
     "static/media/mail-icon.svg": "/static/media/mail-icon.129a9bb6f39d8d3278c84d7f8bb6a114.svg",
     "static/media/logo-html.svg": "/static/media/logo-html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/logo-haskell.svg": "/static/media/logo-haskell.5160a18a9866652c7945dee3f5f423f9.svg",
-    "main.60ffd146.css.map": "/static/css/main.60ffd146.css.map",
-    "main.03b3a605.js.map": "/static/js/main.03b3a605.js.map",
+    "main.8d1752c3.css.map": "/static/css/main.8d1752c3.css.map",
+    "main.93b3e239.js.map": "/static/js/main.93b3e239.js.map",
     "787.e02c0aaf.chunk.js.map": "/static/js/787.e02c0aaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60ffd146.css",
-    "static/js/main.03b3a605.js"
+    "static/css/main.8d1752c3.css",
+    "static/js/main.93b3e239.js"
   ]
 }
